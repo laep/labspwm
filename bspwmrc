@@ -3,6 +3,7 @@
 sxhkd &
 compton --config ~/.compton.conf --respect-prop-shadow &  
 ~/.config/polybar/launch.sh &
+/usr/bin/dunst &
 # change layout to the portuguese layout
 setxkbmap -layout pt &
 
